@@ -21,12 +21,27 @@
 
 ---
 
-> 📢 **What is this?** An open-source collection of real written-test questions for the **Hardware General / Board Development** role at a leading Chinese telecom equipment vendor (community nickname: "**JuChang / 菊厂**"). Questions come from candidate recollections across past years, with answers verified question-by-question, explanations written/rewritten, and knowledge-point tags added — optimized for **AI-powered retrieval** and **systematic review**.
+## 🙌 Handcrafted, Not Machine-Made
+
+> 🫙 **Nothing in this repo is "one-click generated"** — everything is **handcrafted**: manually rebuilt, reviewed and proofread by a human, line by line.
+>
+> 🩸 **This took real effort**: 1552+ questions re-formatted, verified and re-explained one by one; the knowledge summaries are **personally handwritten** notes in Markdown; more wrong answers were fixed than hairs were lost. Coffee consumed ≈ number of uncertain questions × 2 ☕.
+>
+> ✍️ **Every explanation, every summary, every spec value** came from a real person's late-night grind and engineering judgment — every word you read here has been read by a human eye, twice.
+>
+> 🌟 **If this repo helped you**: a Star is the best encouragement ⭐ — it costs nothing, but it tells the sleep-deprived author it was all worth it. Forks/reposts are welcome **with attribution and this notice intact** — free-riding is fine, reselling is shameful 🙅.
+>
+> —— From a hardware engineer who traded hair for a question bank
+
+## 📢 What is this?
+
+> An open-source collection of real written-test questions for the **Hardware General / Board Development** role at a leading Chinese telecom equipment vendor (community nickname: "**JuChang / 菊厂**"). Questions come from candidate recollections across past years, with answers verified question-by-question, explanations written/rewritten, and knowledge-point tags added — optimized for **AI-powered retrieval** and **systematic review**.
 >
 > ⚠️ This repository is **not affiliated with** any company. For learning purposes only — commercial use is prohibited. If any content infringes your rights, please open an Issue and we will remove it promptly.
 
 ## 📖 Table of Contents
 
+- [Handcrafted, not machine-made](#-handcrafted-not-machine-made)
 - [Why this repo](#-why-this-repo)
 - [Bank overview](#-bank-overview)
 - [Quick start](#-quick-start)
