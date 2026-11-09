@@ -1,0 +1,14 @@
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python (build scripts only used locally)
+__pycache__/
+*.pyc
