@@ -105,6 +105,7 @@ Open any set under `bank/` (`Set01.md` … `Set28.md`). Answers sit right below 
 
 - Core conclusions across 10 major topics + exam tactics + 6 categories of classic traps (absolute-wording traps, direction traps, fixed calculation patterns …)
 - Per-set summaries: high-frequency topics and pitfalls of each set
+- *Hardware Design Handbook Distilled*: condensed from a classic (159-page) hardware design handbook widely circulated in the industry, preserving concrete design spec values (5-1-5 rule, impedance formula, grounding / filtering / surge-protection parameters, TTL/CMOS interface essentials, etc.)
 
 ## ✅ Quality Assurance
 
@@ -122,6 +123,7 @@ Open any set under `bank/` (`Set01.md` … `Set28.md`). Answers sit right below 
 │   └── 菊厂校招实习硬件通用（高频、电磁兼容、测试）（第28套）.md
 ├── knowledge/                     # Knowledge system
 │   ├── 00-核心知识点总览.md        # ← recommended entry
+│   ├── 菊厂硬件设计手册精华.md     # classic design handbook, distilled (spec values)
 │   └── 分套摘要-第XX-XX套.md      # per-set summaries
 ├── docs/                          # Logo & banner
 ├── .github/ISSUE_TEMPLATE/        # correction issue template
